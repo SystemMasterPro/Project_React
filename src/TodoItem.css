@@ -1,0 +1,37 @@
+.item{
+    background-color: whitesmoke;
+    margin: 5px;
+    width: 97.5%;
+    list-style: none;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.icon{
+    color: black;
+    font-weight: bold;
+}
+.icon-check{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+.icon-check--active{
+    color: green;
+    font-weight: bolder;
+}
+.todoItem-p{
+    color: indigo;
+}
+.todoItem-p--complete{
+    text-decoration:  line-through;
+}
+.icon-delete{
+    display: grid;
+    justify-items: end;
+    align-items: center;
+    margin-right: 10px;
+}
+.icon-delete:hover{
+    color: red;
+}

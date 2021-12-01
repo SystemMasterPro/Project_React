@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+.title{
+    color: white;
+    font-size: 30px;
+}

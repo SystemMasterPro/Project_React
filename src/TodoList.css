@@ -1,0 +1,9 @@
+.section{
+    background-color: rgb(171, 156, 48);
+    border-radius: 5px;
+    margin: 20px;
+    padding: 10px;
+}
+.list{
+    padding-left: 0;
+}
