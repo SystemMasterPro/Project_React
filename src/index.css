@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f0c29;  /* fallback for old browsers */
+  background-color: -webkit-linear-gradient(to bottom, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+  background-color: linear-gradient(to bottom, #24243e, #302b63, #0f0c29);
+  background-repeat:  space;
+  background-size: contain;
+  font-family: 'Ubuntu', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

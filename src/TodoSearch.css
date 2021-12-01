@@ -1,0 +1,8 @@
+.search{
+    width: 100%;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 1px 3px 1px rgb(147, 223, 147);
+    outline: none;
+}
