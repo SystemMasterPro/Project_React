@@ -3,7 +3,7 @@ import './CreateTodoButton.css';
 
 function CreateTodoButton() {
     return (
-        <button className="buttonAdd"><i class="fas fa-plus"></i></button>
+        <button className="buttonAdd"><i className="fas fa-plus"></i></button>
     );
 }
 
