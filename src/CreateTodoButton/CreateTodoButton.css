@@ -10,7 +10,13 @@
     justify-content: center;
     align-items: center;
     position: fixed;
-    z-index: 99;
     bottom: 220px;
     right: 490px;
+    z-index: 1;
+}
+@media(max-width:600px){
+    .buttonAdd{
+        bottom: 200px;
+        right: 30px;
+    }
 }

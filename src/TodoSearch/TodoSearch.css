@@ -6,3 +6,10 @@
     box-shadow: 2px 1px 3px 1px rgb(147, 223, 147);
     outline: none;
 }
+
+@media(max-width:600px){
+    .search{
+        width: 85%;
+        margin-left: 20px;
+    }
+}

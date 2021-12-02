@@ -25,3 +25,5 @@ yarn-error.log*
 # images
 /public/*.png
 /public/*.ico
+
+.vscode
